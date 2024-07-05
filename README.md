@@ -93,7 +93,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/BTC-Miles/BTC-Miles" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/BTC-Miles/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/BTC-Miles/BTC-Miles" title="BTC-Miles"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=BTC-Miles&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/BTC-Miles/BTC-Miles" title="BTC-Miles"><img align="right" height="115" src="https://github.com/BTC-Miles/BTC-Miles&repo=BTC-Miles&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
@@ -110,21 +110,6 @@
 <h4 align="center">
   <a href="https://github.com/BTC-Miles?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-
-<!--
-**BTC-Miles/BTC-Miles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
