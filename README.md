@@ -89,24 +89,3 @@
 </p>
 
 <hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/BTC-Miles/BTC-Miles" title="BTC-Miles"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=BTC-Miles&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/BTC-Miles/BTC-Miles" title="BTC-Miles"><img align="right" height="115" src="https://github.com/BTC-Miles/BTC-Miles&repo=BTC-Miles&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/BTC-Miles/A-variety-of-miscellaneous-technologies-English-Version" title="A-variety-of-miscellaneous-technologies-English-Version"><img align="left" height="115" src="https://github.com/BTC-Miles/A-variety-of-miscellaneous-technologies-English-Version&repo=A-variety-of-miscellaneous-technologies-English-Version&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/BTC-Miles/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/BTC-Miles/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/BTC-Miles/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/BTC-Miles?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
