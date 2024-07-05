@@ -25,10 +25,10 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Focus On Web-3 Coding 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="WEB-3" height="150" src="images/IMG_5454.jpg"></code>
+  <code><img title="WEB-3" height="250" src="images/IMG_5454.jpg"></code>
 </p>
 <hr>
 
