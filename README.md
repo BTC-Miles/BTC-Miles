@@ -14,24 +14,20 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Miles, WEB-3 Coder & Computer Engineer & Software Developer 
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🔬 Focused on blockchain technology research,Regularly update my study notes daily. 
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 I graduated from Shenzhen Technology University, Department of Computer Engineering
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning blockchain technology
   <br>
   💬 Ask me anything about from <a href="https://github.com/BTC-Miles/BTC-Miles/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: CMILES010405@outlook.com">CMILES010405@outlook.com</a>
 </p>
 
 <hr>
@@ -97,7 +93,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/BTC-Miles/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/BTC-Miles/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/BTC-Miles/BTC-Miles" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/BTC-Miles/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
