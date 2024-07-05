@@ -28,7 +28,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="WEB-3" height="25" src="images/IMG_5454.jpg"></code>
+  <code><img title="WEB-3" height="150" src="images/IMG_5454.jpg"></code>
 </p>
 <hr>
 
