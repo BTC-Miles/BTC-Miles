@@ -97,7 +97,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/BTC-Miles/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/BTC-Miles/A-variety-of-miscellaneous-technologies-English-Version" title="A-variety-of-miscellaneous-technologies-English-Version"><img align="left" height="115" src="https://github.com/BTC-Miles/A-variety-of-miscellaneous-technologies-English-Version&repo=A-variety-of-miscellaneous-technologies-English-Version&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/BTC-Miles/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BTC-Miles&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
@@ -110,10 +110,3 @@
 <h4 align="center">
   <a href="https://github.com/BTC-Miles?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/BTC-Miles?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
