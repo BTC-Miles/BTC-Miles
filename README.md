@@ -31,11 +31,3 @@
   <code><img title="WEB-3" height="350" src="images/IMG_5454.jpg"></code>
 </p>
 <hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BTC-Miles&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
