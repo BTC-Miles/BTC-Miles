@@ -10,15 +10,6 @@
 <p align="center">
   Hi, I'm Miles, WEB-3 Coder & Computer Engineer & Software Developer 
   <br>
-  <br>
-  🔬 Focused on blockchain technology research,Regularly update my study notes daily. 
-  <br>
-  🎓 Department of Computer Engineering
-  <br>
-  💻 A coder and keep learning about it
-  <br>
-  📚 Currently learning blockchain technology
-  <br>
   💬 Ask me anything about from <a href="https://github.com/BTC-Miles/BTC-Miles/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: CMILES010405@outlook.com">CMILES010405@outlook.com</a>
